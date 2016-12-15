@@ -4,6 +4,7 @@ Javascript Currency class
 * Big number calculations for high precious float calculations
 * Node or browers support
 * Currency code attribute
+* Flow type support
 
 ## Why?
 Only currency value object with big number support
