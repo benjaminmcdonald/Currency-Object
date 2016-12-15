@@ -1,0 +1,23 @@
+{
+  "name": "Currency-Object",
+  "version": "1.0.0",
+  "description": "Bug number Javascript Currency class",
+  "dependencies": {
+    "big-decimal": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminmcdonald/Currency-Object.git"
+  },
+  "author": "Ben McDonald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjaminmcdonald/Currency-Object/issues"
+  },
+  "homepage": "https://github.com/benjaminmcdonald/Currency-Object#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "node currency.spec.js"
+  },
+  "keywords": []
+}
