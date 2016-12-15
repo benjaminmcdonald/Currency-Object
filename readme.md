@@ -10,7 +10,7 @@ Only currency value object with big number support
 
 ## Installing currency-value
 ```js
-npm install --save currency-value
+npm install --save currency-object
 ```
 
 ## Using
