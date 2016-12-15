@@ -30,3 +30,26 @@ currency.currency() === 'EUR';
 
 
 
+
+## Methods
+* new Currency(string amount, string currency, boolean isNegitiveAllowed = false)
+* amount => number
+* toString => string
+* currency => ISO currency of length 3
+* round => string
+* toJson => Object
+* isNegitiveAllowed => boolean
+* copy => Currency
+* min => Currency
+* max => Currency
+* isEqual => boolean
+* isLessThan => boolean
+* isLessThanOrEqualTo => boolean
+* isGreaterThan => boolean
+* isGreaterThanOrEqualTo => boolean
+* converTo => Currency
+* multi => Currency
+* div => Currency
+* add => Currency
+* subtract => Currency
+
