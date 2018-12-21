@@ -1,5 +1,5 @@
 
-const Currency = (typeof exports !== 'undefined'?require('./index'):window.Currency);
+const Currency = (typeof exports !== 'undefined'?require('./index'):window.Currency)['Currency'];
 
 function equals(a, b) {
 	console.assert(a === b, {a, b});

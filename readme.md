@@ -16,6 +16,7 @@ npm install --save currency-object
 
 ## Using
 ```js
+const Currency = require('currency-object')['Currency'];	// isn't beautiful, but it's works
 
 let currency = new Currency('1', 'EUR');
 
